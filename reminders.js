@@ -15,13 +15,19 @@ const reminders = [
 {
     type:"weekly",
     weekday:"Friday",
-    text:"Team Meeting 1pm"
+    text:"Team Meeting 4:30pm"
 },    
 
 {
     type:"weekly",
-    weekday:"Tuesday",
-    text:"Team Meeting 1 pm"
+    weekday:"Wednesday",
+    text:"Team Meeting Wed 1pm"
+},
+
+    {
+    type:"weekly",
+    weekday:"Monday",
+    text:"Team Meeting Mon 1pm"
 }
-    
+
 ];
