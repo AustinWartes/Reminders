@@ -8,8 +8,8 @@ const reminders = [
 
 {
     type:"weekly",
-    weekday:"Tuesday",
-    text:"🛒 Grocery Shopping"
+    weekday:"Wednesday",
+    text:"Start Meal Prep"
 }
 
 ];
