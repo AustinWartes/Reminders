@@ -21,7 +21,7 @@ const reminders = [
 {
     type:"weekly",
     weekday:"Tuesday",
-    text:"Team Meeting 1pm"
+    text:"Team Meeting 1 pm"
 }
     
 ];
