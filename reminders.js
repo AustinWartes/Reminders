@@ -8,7 +8,7 @@ const reminders = [
 
 {
     type:"weekly",
-    weekday:"Sunday",
+    weekday:"Tuesday",
     text:"🛒 Grocery Shopping"
 }
 
