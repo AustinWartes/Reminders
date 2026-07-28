@@ -1,8 +1,8 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: transparent;
-    color: inherit;
+    background: black;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,16 +12,16 @@ html, body {
 }
 
 h2 {
-    margin: 0 0 10px 0;
+    margin: 0 0 8px 0;
     font-size: 16px;
     font-weight: 600;
-    letter-spacing: -0.2px;
+    color: inherit;
 }
 
 .task {
     font-size: 14px;
     font-weight: 400;
-    opacity: 0.85;
-    padding: 0;
+    opacity: 0.75;
     margin: 0;
+    color: inherit;
 }
