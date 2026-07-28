@@ -10,7 +10,10 @@ let found = false;
 
 reminders.forEach(reminder => {
 
-    if (reminder.type === "weekly" && reminder.weekday === weekday) {
+    if (
+        reminder.type === "weekly" &&
+        reminder.weekday === weekday
+    ) {
 
         reminderBox.innerHTML += `
             <div class="task">
@@ -22,6 +25,7 @@ reminders.forEach(reminder => {
     }
 
 });
+
 
 if (!found) {
 
