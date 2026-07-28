@@ -1,38 +1,27 @@
-body {
+html, body {
     margin: 0;
+    padding: 0;
     background: transparent;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    height: 100vh;
 }
 
-.card {
-    background: transparent;
-    padding: 10px;
-    width: 100%;
-    box-shadow: none;
-    border-radius: 0;
-}
-
-h1 {
-    display: none;
+.reminder-widget {
+    padding: 0;
+    margin: 0;
 }
 
 h2 {
-    margin: 0 0 12px 0;
-    font-size: 18px;
+    margin: 0 0 10px 0;
+    font-size: 16px;
     font-weight: 600;
+    letter-spacing: -0.2px;
 }
 
 .task {
-    background: transparent;
-    padding: 6px 0;
-    border-radius: 0;
-    margin-top: 5px;
-    font-size: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.85;
+    padding: 0;
+    margin: 0;
 }
